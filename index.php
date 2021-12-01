@@ -63,7 +63,7 @@
                 </nav>
             </div>
             <div id="botones-login" style="display: inline-block;">
-                <a href="html/registro.html"><input type="button" value="Registrarse" id="registrese"></a>
+                <a href="/php/registro.php"><input type="button" value="Registrarse" id="registrese"></a>
                 <input type="button" value="Iniciar sesión" id="iniciar-sesion">
             </div>
         </div>
